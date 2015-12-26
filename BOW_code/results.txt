@@ -1,0 +1,71 @@
+
+
+------------------
+NEW MAIN EXECUTION:
+------------------
+
+NEW EXECUTION:
+Detector runned
+Descriptor runned
+Vocabulary runned
+Assignment runned
+Classification runned
+
+***Confusion Matrix
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+0 	0 	0 	0 	0 	0 	0 	
+
+*** Accuracy  = NaN
+Detector = custom / min_scale = 5.000000 / max_scale = 25.000000 / npoints = 256.000000
+Descriptor = hoggraylbp / patch_size = 11.000000
+Vocabulary = kmeans / force = 0.000000 / size = 200.000000 / sample_rate = 20.000000
+Assignment = hard
+
+RESULTS:
+class; basket; AP; 0.000; 
+class; castells; AP; 0.000; 
+class; marathon; AP; 0.000; 
+class; polo; AP; 0.000; 
+class; rowing; AP; 0.000; 
+class; sailing; AP; 0.000; 
+class; snowboarding; AP; 0.000; 
+AP Total = 0.000; 
+
+TIMES:
+TDetector = 6.701147
+TDescriptor = 349.333076
+TVocabulary = 45.830320
+TAssignment = 10.291802
+TClassification = 0.824226
+TEval = 0.794752
+Total Time = 413.783108
+
+
+NEW EXECUTION:
+Detector runned
+Descriptor runned
+
+
+------------------
+NEW MAIN EXECUTION:
+------------------
+
+NEW EXECUTION:
+Detector runned
+
+
+------------------
+NEW MAIN EXECUTION:
+------------------
+
+------------------
+NEW MAIN EXECUTION:
+------------------
+
+NEW EXECUTION:
+Detector runned
